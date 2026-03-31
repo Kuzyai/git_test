@@ -14,5 +14,7 @@ def feature():
     while True:
         print("Жёсткий кодинг")
 
+def weather():
+    print("weather")
 def pay():
     print("pay")
