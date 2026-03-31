@@ -16,3 +16,5 @@ def feature():
 
 def weather():
     print("weather")
+def pay():
+    print("pay")
