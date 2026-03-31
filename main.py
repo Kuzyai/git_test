@@ -13,3 +13,6 @@ def main():
 def feature():
     while True:
         print("Жёсткий кодинг")
+
+def pay():
+    print("pay")
